@@ -1,3 +1,4 @@
 hi from master
 hi from branch2
+feature3branch
 hi from feature 1
