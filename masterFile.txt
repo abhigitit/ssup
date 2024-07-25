@@ -1,3 +1,5 @@
 hi from master
 hi from branch2
 hi from direct master (so changed by others)
+hi from feature 1
+
